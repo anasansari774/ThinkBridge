@@ -1,5 +1,5 @@
 # ThinkBridge
-ThinkBridge Assessement - PhpTravels, Sadguru's Amrit-Tulya - Tea Shop, bestundertaking.net
+ThinkBridge Assessement - PhpTravels
 Steps to execute the project:
 
 1. Download the project
